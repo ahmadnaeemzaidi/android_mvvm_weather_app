@@ -1,4 +1,4 @@
-package com.hellohasan.weatherappmvvm
+package com.ahmadtest.weatherapp
 
 import org.junit.Test
 
